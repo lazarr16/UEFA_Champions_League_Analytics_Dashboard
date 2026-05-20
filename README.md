@@ -1,4 +1,4 @@
-```markdown
+markdown
 # UEFA Champions League 2023-24 Analytics & Prediction Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -81,5 +81,3 @@ UEFA_Champions_League_Analytics_Dashboard/
 ## Author
 
 **Aamir Khan** *Data Science & Analytics* [](https://www.linkedin.com/in/aamir-khan-94498b284/)
-
-```
