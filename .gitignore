@@ -1,0 +1,12 @@
+# Power BI temporary/backup files
+*.pbit
+*.pbix.backup
+
+# Office temporary files (created when Excel files are open)
+~$*.xlsx
+~$*.xls
+~$*.csv
+
+# System Files
+Thumbs.db
+.DS_Store
